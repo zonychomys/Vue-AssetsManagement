@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Consolas","WenQuanYi MicroHei","Microsoft YaHei",sans-serif;
+}
+ul li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+.fixed {
+  position: fixed;
+}
+.text-center {
+  text-align: center;
+}
